@@ -1,0 +1,2 @@
+add vim="nvim"
+
