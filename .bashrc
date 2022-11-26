@@ -1,2 +1,2 @@
-add vim="nvim"
+alias vim="nvim"
 
