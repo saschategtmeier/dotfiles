@@ -8,3 +8,4 @@ if not exist ..\.dotfiles\ (
 echo Starting to create symlinks...
 
 mklink /H %USERPROFILE%\.bashrc .\.bashrc
+mklink /J %USERPROFILE%\AppData\Local\nvim .\nvim
