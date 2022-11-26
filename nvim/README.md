@@ -25,3 +25,9 @@ This Neovim config is based on [Josean Martinez's Config](https://www.youtube.co
 7. Go to AppData dir
   `cd ~/AppData/Local`
 8. Paste `nvim` folder to there
+
+
+also:
+npm install -g tree-sitter-cli
+choco install mingw
+refreshenv in cmd
