@@ -26,14 +26,6 @@ if not status then
 	return
 end
 
---------
--- TODO
---------
--- watch rest of vid
--- watch primeagens 2021 vid
--- watch primeagen 2022 vid
--- figure out how to link sub folders so i can sync w/ github on changes
-
 -- add list of plugins to install
 return packer.startup(function(use)
 	-- packer can manage itself
@@ -105,6 +97,7 @@ return packer.startup(function(use)
 			ts_update()
 		end,
 	})
+	use("nvim-treesitter/nvim-treesitter-context")
 
 	-- auto closing
 	use("windwp/nvim-autopairs") -- autoclose parens, brackets, quotes, etc...

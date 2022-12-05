@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/sascha/Documents/dev/src/saschategtmeier/.dotfiles/nvim'
+let g:netrw_dirhist_3='/Users/sascha/Documents/dev/src/saschategtmeier/.dotfiles/nvim/lua/sascha'
+let g:netrw_dirhist_2='/Users/sascha/Documents/dev/src/saschategtmeier/.dotfiles/nvim/lua'
+let g:netrw_dirhist_1='/Users/sascha/Documents/dev/src/saschategtmeier/.dotfiles/nvim'
