@@ -35,10 +35,13 @@ return packer.startup(function(use)
 	use("ThePrimeagen/vim-be-good")
 
 	-- lua functions that many plugins use
+	use("EdenEast/nightfox.nvim")
 	use("nvim-lua/plenary.nvim")
 
 	-- preferred colorscheme
 	use("bluz71/vim-nightfly-guicolors")
+
+	use("christoomey/vim-tmux-navigator") -- tmux & split window navigation
 
 	-- file explorer
 	use("nvim-tree/nvim-tree.lua")
