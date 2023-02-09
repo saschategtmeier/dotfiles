@@ -41,7 +41,8 @@ return packer.startup(function(use)
 	-- preferred colorscheme
 	use("bluz71/vim-nightfly-guicolors")
 
-	use("christoomey/vim-tmux-navigator") -- tmux & split window navigation
+	-- tmux & split window navigation
+	use("christoomey/vim-tmux-navigator")
 
 	-- file explorer
 	use("nvim-tree/nvim-tree.lua")
