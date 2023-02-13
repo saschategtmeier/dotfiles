@@ -25,6 +25,7 @@ treesitter.setup({
 		"javascript",
 		"json",
 		"markdown",
+		"markdown_inline",
 		"scss",
 		"sql",
 		"tsx",
