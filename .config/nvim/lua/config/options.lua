@@ -8,3 +8,8 @@ opt.scrolloff = 8
 
 -- keep buffer open
 opt.hidden = true
+
+-- search settings
+opt.ignorecase = true
+opt.smartcase = true
+opt.hlsearch = false
