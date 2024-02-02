@@ -4,6 +4,6 @@ A configuration with [LazyVim](https://github.com/LazyVim/LazyVim) as plugin man
 
 ## Inspired by
 
-[Josh Medeski](https://github.com/joshmedeski/dotfiles)
-[Josean Martinez](https://github.com/josean-dev/dev-environment-files)
+[Josh Medeski](https://github.com/joshmedeski/dotfiles)  
+[Josean Martinez](https://github.com/josean-dev/dev-environment-files)  
 [ThePrimeagen](https://github.com/ThePrimeagen/.dotfiles)
