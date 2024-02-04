@@ -15,9 +15,10 @@ Collection of my dotfiles and other configurations. :)
 - Font: [SFMono Nerd Font](https://github.com/epk/SF-Mono-Nerd-Font)
 - Colors: [Catppuccin (Flavour: Mocha)](https://github.com/catppuccin)
 
-### Navigation
+### OS
 
 - Window Management: [yabai](https://github.com/koekeishiya/yabai) + [skhd](https://github.com/koekeishiya/skhd)
+- Spotlight replacement: [Raycast](https://www.raycast.com/)
 
 ### Package Managers
 
