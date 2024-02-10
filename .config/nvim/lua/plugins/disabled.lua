@@ -9,7 +9,6 @@ return {
   { "nvim-neo-tree/neo-tree.nvim", enabled = false },
   { "nvim-pack/nvim-spectre", enabled = false },
   { "folke/flash.nvim", enabled = false },
-  { "folke/which-key.nvim", enabled = false },
   { "lewis6991/gitsigns.nvim", enabled = false },
   { "RRethy/vim-illuminate", enabled = false },
   { "echasnovski/mini.bufremove", enabled = false },
@@ -17,6 +16,5 @@ return {
 
   -- ui
   { "akinsho/bufferline.nvim", enabled = false },
-  { "folke/which-key.nvim", enabled = false },
   { "folke/noice.nvim", enabled = false },
 }
