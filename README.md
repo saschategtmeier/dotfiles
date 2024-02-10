@@ -18,7 +18,7 @@ Collection of my dotfiles and other configurations. :)
 ### OS
 
 - Window Management: [yabai](https://github.com/koekeishiya/yabai) + [skhd](https://github.com/koekeishiya/skhd)
-- Spotlight replacement: [Raycast](https://www.raycast.com/)
+- Spotlight Replacement: [Raycast](https://www.raycast.com/)
 
 ### Package Managers
 
