@@ -12,7 +12,6 @@ return {
   { "lewis6991/gitsigns.nvim", enabled = false },
   { "RRethy/vim-illuminate", enabled = false },
   { "echasnovski/mini.bufremove", enabled = false },
-  { "folke/todo-comments.nvim", enabled = false },
 
   -- ui
   { "akinsho/bufferline.nvim", enabled = false },
