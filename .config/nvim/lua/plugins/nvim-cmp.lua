@@ -9,13 +9,11 @@ return {
     "saadparwaiz1/cmp_luasnip",
   },
   opts = function()
-    vim.api.nvim_set_hl(0, "CmpGhostText", { link = "Comment", default = true })
     local cmp = require("cmp")
     local defaults = require("cmp.config.default")()
     return {
-      completion = {
-        completeopt = "menu,menuone,noinsert",
-      },
+      preselect = cmp.PreselectMode.None,
+      completion = { completeopt = "menu,menuone,noselect" },
       snippet = {
         expand = function(args)
           require("luasnip").lsp_expand(args.body)
@@ -45,11 +43,6 @@ return {
           end
           return item
         end,
-      },
-      experimental = {
-        ghost_text = {
-          hl_group = "CmpGhostText",
-        },
       },
       sorting = defaults.sorting,
     }
