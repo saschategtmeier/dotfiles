@@ -6,3 +6,5 @@ alias vim="nvim"
 
 autoload -Uz compinit && compinit
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
+
+eval "$(zoxide init --cmd cd zsh)"
