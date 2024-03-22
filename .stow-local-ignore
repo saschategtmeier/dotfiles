@@ -1,0 +1,9 @@
+\.git
+\.gitignore
+
+^/README.*
+
+install
+install.sh
+
+snapshot.png
