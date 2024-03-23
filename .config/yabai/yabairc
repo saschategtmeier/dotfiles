@@ -9,8 +9,8 @@ yabai -m config layout bsp
 # new window spawns to the right if vertical split, or bottom if horizontal split
 yabai -m config window_placement second_child
 
-# padding set to 12px
-yabai -m config top_padding 12
+# padding
+yabai -m config top_padding 4 # 12 is too much for MacBooks w/ notch
 yabai -m config bottom_padding 12
 yabai -m config left_padding 12
 yabai -m config right_padding 12
