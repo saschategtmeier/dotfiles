@@ -9,8 +9,9 @@ return {
       "angular-language-server",
       "emmet-ls",
       "html-lsp",
+      "prettier",
       "stylua",
-      "shfmt",
+      "shfmt", -- shell formatter
     },
   },
   ---@param opts MasonSettings | {ensure_installed: string[]}
