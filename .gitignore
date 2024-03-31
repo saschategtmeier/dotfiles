@@ -1,0 +1,7 @@
+.config/1Password/
+.config/gh/
+.config/github-copilot/
+.config/raycast
+.config/tmux/plugins/
+.config/zed/
+.config/karabiner/automatic_backups/
