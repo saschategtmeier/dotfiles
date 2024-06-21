@@ -4,6 +4,7 @@ return {
   -- coding
   { "echasnovski/mini.surround", enabled = false },
   { "echasnovski/mini.ai", enabled = false },
+  { "github/copilot.vim", enabled = false },
 
   -- editor
   { "nvim-neo-tree/neo-tree.nvim", enabled = false },
